@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "category":"hotstar specials"
+    },
+    {
+        "id":2,
+        "category":"Superheroes movies"
+    },
+    {
+        "id":3,
+        "category":"Disney+ Originals"
+    },
+    {
+        "id":4,
+        "category":"Hindi movies"
+    },
+    {
+        "id":5,
+        "category":"Kids"
+    }
+   
+]

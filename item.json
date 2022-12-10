@@ -1,0 +1,452 @@
+[
+    {
+        "id":1,
+        "name":"Dahan: Raakan Ka Rahasya",
+        "category_id":1,
+        "age":"18+",
+        "image":"https://i.ibb.co/sqcNbsV/1820x1024-091822063230.jpg",
+        "year":2022,
+        "info":"IAS officer Avani Raut arrives in Shilaspura, a town riddled with superstitions. As she tries to bring progress there, she battles the demons of her past."
+    },
+    {
+        "id":2,
+        "name":"Criminal Justice: Adhura Sach",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/J7jNHnd/maxresdefault-1.jpg",
+        "year":2022,
+        "info":"Teenage superstar Zara Ahuja mysteriously goes missing after she gets into an altercation with her brother Mukul, who despises her existence."
+    },
+    {
+        "id":3,
+        "name":"Special Ops",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/JzJc8mr/maxresdefault-2.jpg",
+        "year":2020,
+        "info":"When a set of R&AW officials are asked to create an audit report of Himmat Singh miscellaneous expenses, a nineteen-year-old theory finally sees a glimmer of light."
+    },
+    {
+        "id":4,
+        "name":"OK Computer",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/T4tdHtr/maxresdefault-3.jpg",
+        "year":2021,
+        "info":"When a self-driving car kills a pedestrian, prickly Cyber Cell detective Saajan Kundu teams up with his estranged partner Laxmi Suri to investigate. But was this an accident?"
+    },
+    {
+        "id":5,
+        "name":"Live Telecast",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/d7t57Dn/maxresdefault-4.jpg",
+        "year":2021,
+        "info":"Retelling real-life paranormal stories is what Jenny and her team does best, and their show, Dark Tales, is proof of that. But the otherworldly may be closer than they think."
+    },
+    {
+        "id":6,
+        "name":"Kanpuriye",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/hLGknB7/maxresdefault-7.jpg",
+        "year":2019,
+        "info":"Jaitun, Jugnu and Vijay's dreams are hanging by a thread. While they struggle to prove their mettle, life keeps taking them for a spin."
+    },
+    {
+        "id":7,
+        "name":"The Office",
+        "category_id":1,
+        "age":"13+",
+        "image":"https://i.ibb.co/bWszYby/The-office-poster.jpg",
+        "year":2021,
+        "info":"Jagdeep Chaddha claims to be the Chief Fun Officer, but his team thinks differently about his sense of humour. To address the elephant in the room, a workshop on racial tolerance and diversity is organised."
+    },
+    {
+        "id":8,
+        "name":"Hundred",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/FKwnWZQ/maxresdefault-8.jpg",
+        "year":2020,
+        "info":"Netra’s dull life as a government employee gets rocked by unsettling news. On the other hand, ACP Saumya is desperate to break the glass ceiling. What happens when the two cross paths?"
+    },
+    {
+        "id":9,
+        "name":"Hostages",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/KV5mfnN/sddefault.jpg",
+        "year":2019,
+        "info":"A night before the operation of the Chief Minister of Haryana, Dr. Mira Anand, his surgeon is held hostage along with her family by four masked men. Suitable for viewers 15+"
+    },
+    {
+        "id":10,
+        "name":"Bahut Hua Sammaan",
+        "category_id":1,
+        "age":"16+",
+        "image":"https://i.ibb.co/pzpT4bQ/maxresdefault-9.jpg",
+        "year":2020,
+        "info":"Perpetually failing engineering students Bony and Fundoo get talked into robbing a bank by the campus loon. What follows is something neither anticipated."
+    },
+    {
+        "id":11,
+        "name":"Moon Knight",
+        "category_id":2,
+        "age":"16+",
+        "image":"https://i.ibb.co/CB52LQW/image.jpg",
+        "year":2022,
+        "info":"As Moon Knight joins the fray, Marc, Steven, and Khonshu must work together to stop Ammit."
+    },
+    {
+        "id":12,
+        "name":"Ms. Marvel",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/yNJJwWy/scale.jpg",
+        "year":2022,
+        "info":"Kamala Khan attends Avengercon only to discover that she herself might have superpowers."
+    },
+    {
+        "id":13,
+        "name":"Marvel's The Avengers",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/47fCB9n/13453.jpg",
+        "year":2012,
+        "info":"Nick Fury finds himself in need of a team to pull the world back from the brink of disaster by launching the Avengers initiative."
+    },
+    {
+        "id":14,
+        "name":"Guardians Of The Galaxy",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/s32gxHD/scale-1.jpg",
+        "year":2014,
+        "info":"A stranded jet pilot in space must unite a diverse team of aliens to form a squad capable of defeating cosmic threats."
+    },
+    {
+        "id":15,
+        "name":"Black Panther",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/x6zmK1x/au-rich-hero-blackpanther-1-3c317c85-1200x526.jpg",
+        "year":2018,
+        "info":"T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past."
+    },
+    {
+        "id":16,
+        "name":"Werewolf By Night",
+        "category_id":2,
+        "age":"18+",
+        "image":"https://i.ibb.co/GQByWt8/scale-2.jpg",
+        "year":2022,
+        "info":"On a dark and somber night, monster hunters gather to pay respects to their deceased leader and are thrust into a deadly game."
+    },
+    {
+        "id":17,
+        "name":"Thor: Love and Thunder",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/7YryJkL/images-3.jpg",
+        "year":2022,
+        "info":"The God of Thunder teams up with King Valkyrie, Korg and ex-girlfriend-turned-Mighty-Thor Jane Foster to take on a galactic killer known as Gorr the God Butcher."
+    },
+    {
+        "id":18,
+        "name":"She-Hulk: Attorney at Law",
+        "category_id":2,
+        "age":"16+",
+        "image":"https://i.ibb.co/JQxnJYK/She-Hulk-Review.jpg",
+        "year":2022,
+        "info":"Jen Walters’s world is turned upside down after a freak accident leaves her with superpowers."
+    },
+    {
+        "id":19,
+        "name":"Doctor Strange in the Multiverse of Madness",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/xY5KyTd/MV5-BNWM0-ZGJl-Mz-Mt-Zm-Yw-Mi00-Nz-I3-LTgz-Mz-Mt-Nj-Mz-Njli-NDRm-Zm-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+        "year":2022,
+        "info":"When the Multiverse is unlocked, Doctor Strange must enlist help from old and new allies in order to confront a surprising adversary."
+    },
+    {
+        "id":20,
+        "name":"Eternals",
+        "category_id":2,
+        "age":"13+",
+        "image":"https://i.ibb.co/nwGwGpK/16363081595721.jpg",
+        "year":2021,
+        "info":"The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations"
+    },
+    {
+        "id":21,
+        "name":"Willow",
+        "category_id":3,
+        "age":"13+",
+        "image":"https://i.ibb.co/Qd3y8R2/Willow-release-date-and-how-to-watch-it-online.jpg",
+        "year":2022,
+        "info":"Tir Asleen receives an important delegation from Galladoorn, but a sudden attack by the mysterious Gales prompts Queen Sorsha to seek help from an old friend."
+    },
+    {
+        "id":22,
+        "name":"Mickey: The Story of a Mouse",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/zsDRnSm/maxresdefault-5.jpg",
+        "year":2022,
+        "info":"A look at Mickey's evolution into different versions that reflect his creator and society's changes."
+    },
+    {
+        "id":23,
+        "name":"Zootopia+",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/kxqPky1/maxresdefault-6.jpg",
+        "year":2022,
+        "info":"Head back to the mammal metropolis to dive deeper into the lives of a slew of intriguing residents."
+    },
+    {
+        "id":24,
+        "name":"Pinocchio",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/Jjzyc1J/pinocho-live-action-disney-plus.jpg",
+        "year":2022,
+        "info":"A live action retelling of the beloved tale of a wooden puppet who embarks on a thrilling adventure to become a real boy."
+    },
+    {
+        "id":25,
+        "name":"Chip 'n Dale: Rescue Rangers",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/fVg0RCM/MV5-BZj-Bl-Mj-Ix-N2-It-NTMy-Ni00-NDk5-LWFh-Mz-Et-Nzdi-ODE0-Y2-M4-MWI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE.jpg",
+        "year":2022,
+        "info":"When an old friend goes missing, Chip and Dale must return to their crime-fighting roots."
+    },
+    {
+        "id":26,
+        "name":"Limitless with Chris Hemsworth",
+        "category_id":3,
+        "age":"13+",
+        "image":"https://i.ibb.co/XDBGyzp/download-4.jpg",
+        "year":2022,
+        "info":"Before attempting the ultimate stress test, Chris learns how to tame his unruly stress response by training with soldiers and firefighters."
+    },
+    {
+        "id":27,
+        "name":"Star Wars: Tales Of The Jedi",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/Mk9wwsz/MV5-BODMw-Ym-E1-ZGIt-YWVj-Ni00-ZWUx-LWFj-Yj-Qt-Njdj-N2-Mz-Nz-Y0-Nm-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg.jpg",
+        "year":2022,
+        "info":"A child goes through a rite of passage with unexpected results."
+    },
+    {
+        "id":28,
+        "name":"Super/Natural",
+        "category_id":3,
+        "age":"7+",
+        "image":"https://i.ibb.co/51rXP0P/MV5-BNTU4-N2-Uw-ZDYt-OWMz-Zi00-Yzhl-LWIx-ZTAt-Yjdk-NTUx-OGY2-Njg1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1-ND.jpg",
+        "year":2022,
+        "info":"Welcome to the weird and wonderful world where animals and plants use secret powers to form unexpected alliances, allowing them to survive and thrive."
+    },
+    {
+        "id":29,
+        "name":"Growing Up",
+        "category_id":3,
+        "age":"13+",
+        "image":"https://i.ibb.co/2v7G9FD/MV5-BNTUx-MTY2-OWEt-Mj-Zj-Yy00-M2-Vm-LThl-Mm-Ut-MWM5-NTE2-ZGM0-NGFj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+        "year":2022,
+        "info":"Alex's story dives into her experience dealing with depression in her middle and high school years."
+    },
+    {
+        "id":30,
+        "name":"The Zone: Survival Mission",
+        "category_id":3,
+        "age":"16+",
+        "image":"https://i.ibb.co/rHyHvDS/c6c6af24d6734c5b58dab11a21fe8f31.jpg",
+        "year":2022,
+        "info":"The first simulation starts in a dreary space. Hang in there, and do not stand out!"
+    },
+    {
+        "id":31,
+        "name":"Brahmāstra Part One: Shiva",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/98hq92g/maxresdefault-10.jpg",
+        "year":2022,
+        "info":"A journey of fantasy, action and romance comes to life as Shiva enters the Astraverse! He discovers true love and also, the power of fire within him."
+    },
+    {
+        "id":32,
+        "name":"Freddy",
+        "category_id":4,
+        "age":"16+",
+        "image":"https://i.ibb.co/8N2GXmM/MV5-BNzdi-Yz-My-Zjkt-ODRh-OC00-OWM1-LWI4-NWUt-NTlk-Nj-Rj-M2-Rk-Mj-M5-Xk-Ey-Xk-Fqc-Gde-QXVy-OTI3-Mz-I.jpg",
+        "year":2022,
+        "info":"Introverted and awkward Dr Freddy Ginwala desperately searches for a soulmate. When he finally finds her, the relationship becomes as painful as a root canal."
+    },
+    {
+        "id":33,
+        "name":"Sita Ramam",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/SQSwrmX/download-5.jpg",
+        "year":2022,
+        "info":"On a letter-delivering task, Afreen learns of a 20-year-old romance set amidst a war. Her quest to trace the lovers makes her embrace humanity beyond borders."
+    },
+    {
+        "id":34,
+        "name":"Liger - Saala Crossbreed",
+        "category_id":4,
+        "age":"16+",
+        "image":"https://i.ibb.co/d6ttWmx/vijay-deverakonda-liger-first-look-b-1801211043.jpg",
+        "year":2022,
+        "info":"A brave-hearted Liger works his way up to find his dream spot in the MMA world. But, his life gets complicated when he crosses paths with Taniya."
+    },
+    {
+        "id":35,
+        "name":"Drishyam",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/jRjS3Hs/MV5-BYm-Jh-Zm-Jl-YTIt-Zm-Zl-Ny00-MGY0-LTg0-ZGMt-NWFk-YWU5-NTA1-YTNh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+        "year":2022,
+        "info":"Story of a common family man who takes desperate measures to save his wife and two daughters when they unwittingly get entangled into a crime."
+    },
+    {
+        "id":36,
+        "name":"Cuttputlli",
+        "category_id":4,
+        "age":"16+",
+        "image":"https://i.ibb.co/rwmNxm9/Cuttputlli-film.jpg",
+        "year":2022,
+        "info":"When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy."
+    },
+    {
+        "id":37,
+        "name":"Shiddat",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/mHNHnw6/MV5-BZWFi-Mj-Vl-YTMt-Mzlh-Yy00-MDcx-LWFl-Nm-Et-MGJk-Nm-Rh-Nj-E5-N2-Vi-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+        "year":2021,
+        "info":"Love-struck Jaggi can cross the seven seas for his dream girl, Kartika. Even if it means stopping her wedding."
+    },
+    {
+        "id":38,
+        "name":"Chhichhore",
+        "category_id":4,
+        "age":"16+",
+        "image":"https://i.ibb.co/Bq9zGwt/MV5-BNTY2-NDIw-NWEt-ODRm-Ny00-MTAx-LTkw-Yjkt-Y2-Uy-Zjlh-NGY2-YTI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA2-ODkw-Nz.jpg",
+        "year":2019,
+        "info":"Divided by time, united by a tragic incident. In a bittersweet reunion, seven middle-aged friends take a walk down the memory lane at the least expected place."
+    },
+    {
+        "id":39,
+        "name":"83",
+        "category_id":4,
+        "age":"13+",
+        "image":"https://i.ibb.co/YtDZDqR/83-film-poster.jpg",
+        "year":2021,
+        "info":"Chronicling the historic 1983 Cricket World Cup, thirteen underdogs led by Kapil Dev fight and win against all odds to put India on the map."
+    },
+    {
+        "id":40,
+        "name":"Total Dhamaal",
+        "category_id":4,
+        "age":"7+",
+        "image":"https://i.ibb.co/10TxpWs/MV5-BMTdi-N2-Q2-MGUt-YWRj-Mi00-M2-Y2-LWEz-OTYt-OTA3-Nj-Ni-MGMz-Nm-Fh-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-E1-OTQ.jpg",
+        "year":2022,
+        "info":"When 50 million bucks are at stake, six eccentric people will do whatever it takes, including braving the wild. Who will win this race against time?"
+    },
+    {
+        "id":41,
+        "name":"Doraemon",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/Fz2WGPp/MV5-BMGIz-Zm-Q4-Ym-Ut-ZGQ4-NC00-OTky-LWE1-MGUt-MTQ3-N2-Y3-N2-E2-NWEy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODAz-Nz-A.jpg",
+        "year":2017,
+        "info":"Suneo shows off his new robot and uses Nobita to test its punching and kicking powers. With Doraemon's help, a vengeful Nobita builds a Giant Robot that flies through the air and easily defeats Suneo's robot."
+    },
+    {
+        "id":42,
+        "name":"The Jungle Book",
+        "category_id":5,
+        "age":"13+",
+        "image":"https://i.ibb.co/0trt5tf/MV5-BMTc3-NTUz-NTI4-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-U0-Nj-U5-Nz-E-V1.jpg",
+        "year":2016,
+        "info":"When a tiger named Shere Khan threatens to kill Mowgli, a young boy raised by wolves, his friends Bagheera and Baloo help him escape his clutches."
+    },
+    {
+        "id":43,
+        "name":"Frozen II",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/wY1npxM/MV5-BMj-A0-Yj-Yy-ZGMt-N2-U0-Ni00-Ym-Y4-LWJk-ZTIt-YTMy-Mj-Y3-NGYy-MTJk-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Nj.jpg",
+        "year":2019,
+        "info":"Why was Elsa born with magical powers? Together with Anna, Kristoff, Olaf, and Sven, she sets out on a dangerous but remarkable journey to find the answer."
+    },
+    {
+        "id":44,
+        "name":"The Good Dinosaur",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/s6SHNLP/MV5-BMTc5-MTg2-Nj-Q4-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nzcx-OTY5-Nj-E-V1-FMjpg-UX1000.jpg",
+        "year":2015,
+        "info":"Arlo, an Apatosaurus makes friends with a human friend and learns how to deal with his fears and what he is capable of."
+    },
+    {
+        "id":45,
+        "name":"Selfie with Bajrangi",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/cwrdGBh/MV5-BNj-Q1-OTEx-Ym-Ut-MDEy-NC00-Zjdi-LTky-ZTYt-NGRh-Nm-Uw-Nzdj-ZTE5-Xk-Ey-Xk-Fqc-Gde-QXVy-Njky-ODEz.jpg",
+        "year":2019,
+        "info":"With his new special pen, Ranga plans a wicked move against Ankush."
+    },
+    {
+        "id":46,
+        "name":"Shin-chan",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/ZgVHLcx/MV5-BODE4-YWZm-N2-Et-Zm-M1-ZC00-NDZi-LWJi-NDUt-OWFh-Zm-Nh-NTcw-MTg2-Xk-Ey-Xk-Fqc-Gde-QXVy-NTk5-ODg4.jpg",
+        "year":2019,
+        "info":"Shin-chan ponders over the thought of his future profession. The gang faces tough competition in the swimming competition."
+    },
+    {
+        "id":47,
+        "name":"Cars",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/7YYXJCy/Cars-2006.jpg",
+        "year":2016,
+        "info":"A hotshot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family."
+    },
+    {
+        "id":48,
+        "name":"Marvel's Ultimate Spider-Man",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/Gd77Rn6/MV5-BZWRm-Mjhj-Mm-Et-ZGI0-Yy00-YWEw-LWEx-NGUt-N2-Y5-MWJl-MTA0-Nz-U5-Xk-Ey-Xk-Fqc-Gde-QXVy-NDM5-Mj-Mw.jpg",
+        "year":2012,
+        "info":"One year after becoming Spider-Man, teenager Peter Parker is approached to train with S.H.I.E.L.D."
+    },
+    {
+        "id":49,
+        "name":"Doraemon",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/Fz2WGPp/MV5-BMGIz-Zm-Q4-Ym-Ut-ZGQ4-NC00-OTky-LWE1-MGUt-MTQ3-N2-Y3-N2-E2-NWEy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODAz-Nz-A.jpg",
+        "year":2022,
+        "info":"Suneo shows off his new robot and uses Nobita to test its punching and kicking powers. With Doraemon's help, a vengeful Nobita builds a Giant Robot that flies through the air and easily defeats Suneo's robot."
+    },
+    {
+        "id":50,
+        "name":"Luca",
+        "category_id":5,
+        "age":"7+",
+        "image":"https://i.ibb.co/3WQ4MSw/MV5-BZTQy-NTU0-MDkt-YTFk-Yi00-Zj-Nh-LWE2-ODct-Mz-Bk-M2-U1-ZTk3-YTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-NTI4-Mz-E4.jpg",
+        "year":2021,
+        "info":"The movie is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides."
+    }
+]
